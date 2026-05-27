@@ -1,0 +1,6 @@
+{
+  "name": "Good Morning Mia 小米起床啦",
+  "description": "温暖儿童绘本风格英语启蒙动画视频与互动学习应用。适合5岁儿童英语零基础启蒙，重复本集核心单词(morning, bed, sun, eyes, hands, happy, awake)及句型。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
